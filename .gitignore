@@ -1,0 +1,12 @@
+##Каталог tmp
+tmp/
+
+##Заканчивается на old
+*_old
+
+##Заканчивается на _backup
+*_backup
+
+Thumbs.db
+
+.DS_Store
